@@ -42,7 +42,7 @@ class Test1:
     @pytest.mark.parametrize("a,b,c", getdata())
     @allure.title("测试标题：{a} - {b} = {c}")
     def test_02(self, a, b, c):
-        s = jian(a, b)
+        s = add(a, b)
         assert c == s
 
 if __name__ == '__main__':
