@@ -12,7 +12,6 @@ ddt==1.7.2
 docker==4.4.4
 docopt==0.6.2
 english==2020.7.0
-flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
 idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
 importlib-metadata @ file:///C:/ci/importlib-metadata_1648562631189/work
 iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
