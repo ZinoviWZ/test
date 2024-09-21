@@ -2,5 +2,5 @@ allure-pytest==2.13.5
 ddt==1.7.2
 pytest==7.1.2
 PyYAML==6.0.1
-requests==2.32.3
+requests==2.31.0
 selenium==3.141.0
